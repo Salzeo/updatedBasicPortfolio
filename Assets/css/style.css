@@ -1,4 +1,5 @@
 body {
+    background-image: url("../images/concrete_seamless.png");
     margin: 0;
     width: 960px;
     font-family: Georgia, "Times New Roman", Times, Serif;
@@ -42,7 +43,7 @@ header {
     padding-left: 20px;
     margin-left: 40px;
     width: 590px;
-    background-color: #efeee7;
+    background-color: #ffffff;
   }
 
 h2  {
@@ -57,7 +58,7 @@ h2  {
     padding-bottom: 20px;
     padding-top: 10px;
     width: 190px;
-    background-color: #efeee7;
+    background-color: #ffffff;
 }
 
 h3 {
@@ -91,7 +92,7 @@ h3 {
     margin: 40px;
     width: 610px;
     height: 825px;
-    background-color: #efeee7;
+    background-color: #ffffff;
 }
 
 .box {
